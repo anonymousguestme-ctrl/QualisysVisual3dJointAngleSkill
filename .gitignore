@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.qtm
+*.c3d
+*.cmz
+*.qpr
+*.csv
+*.json
+*.png
+*.xlsx
