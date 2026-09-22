@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qualisys Visual3D Joint Angles"
+  short_description: "Solve and validate CAST joint angles from QTM"
+  default_prompt: "Use $qualisys-visual3d-joint-angles to solve and export validated joint angles from my QTM trials."
